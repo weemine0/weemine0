@@ -42,15 +42,6 @@
 
 <br>
 
-## 📊 Моя статистика
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=weemin0&show_icons=true&theme=dracula&hide_border=true&count_private=true&locale=ru" alt="GitHub stats"/>
-  <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=weemin0&layout=compact&theme=dracula&hide_border=true&locale=ru" alt="Top languages"/>
-  <br><br>
-  <img src="https://streak-stats.demolab.com/?user=weemin0&theme=dracula&hide_border=true&locale=ru" alt="Streak stats"/>
-</div>
 ## 📬 Связаться со мной
 
 <div align="center">
