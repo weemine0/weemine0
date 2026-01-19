@@ -18,12 +18,6 @@
 </a>
 <img src="https://komarev.com/ghpvc/?username=weemin0&style=for-the-badge" alt="Profile views" />
 </div>
-<div align="center">
-  <h2>🚀 Github Commits</h2>
-    <p>This section highlights my daily activity as I learn and practice. Each commit represents progress in my DevOps journey, like scripting exercises or simple Docker setups. Check the commit messages for what I'm working on!</p>
-  <img src="https://raw.githubusercontent.com/weemin0/weemin0/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Contribution Grid Snake Animation Dark Mode"/> <!-- Если у вас есть snake, замените путь -->
-  <img src="https://raw.githubusercontent.com/weemin0/weemin0/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Contribution Grid Snake Animation Light Mode"/> <!-- Если у вас есть snake, замените путь -->
-</div>
 <h2 align="center" class="section-heading">💻 Programming Languages</h2>
 <p> As a beginner DevOps Engineer, I'm building proficiency in essential languages and tools for automation and scripting. Here are the ones I'm currently learning:</p>
 <div align="center">
