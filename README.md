@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&color=00FF9D&center=true&vCenter=true&width=500&lines=Hey!+I'm+weemine0;18+y.o.+Future+UNIX+DevOps+Engineer;Learning+Linux+from+scratch;bash+%7C+git+%7C+system+administration" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=4000&color=00FF9D&center=true&vCenter=true&width=600&lines=Привет!+Я+weemin0;18-летний+парень+из+Питера;Будущий+DevOps+Engineer;Люблю+Linux+и+свободу+от+Windows" alt="Typing SVG" />
 </div>
 
 <br>
@@ -12,51 +12,42 @@
 
 ## 🚀 About me
 
-Привет! Мне 18 лет, и я решил посвятить жизнь IT — в частности, миру UNIX/Linux и DevOps.  
-Раньше читал «Библию Linux» Кристофера Никуса, потом забросил, но сейчас вернулся с ещё большим интересом 🔥
+Привет! Я обычный парень из Санкт-Петербурга, мне недавно исполнилось 18.  
+Люблю сидеть дома, копаться в чём-то новом и интересном — это мой способ отдыхать и чувствовать, что развиваюсь. Но понимаю: просто сидеть за компом и ничего не зарабатывать — в реальной жизни не прокатит.
 
-Сейчас изучаю всё **самостоятельно**, без курсов и буткемпов — просто потому что это реально затягивает.
+Поэтому решил превратить любимое дело в профессию и идти в DevOps.
 
-### Что я сейчас активно изучаю / осваиваю:
-- Linux (командная строка, процессы, права, systemd, networking)
-- Bash scripting (от простых скриптов до автоматизации)
-- Git (от базового workflow до веток и rebase)
-- Основы системного администрирования
-- Первые шаги в Docker и контейнеризации
-- Понимание, как работает вся экосистема UNIX-подобных систем
+Ещё с 13 лет начал интересоваться Linux и UNIX-подобными системами — читал книги, пробовал разные дистрибутивы, экспериментировал. Потом забросил, жизнь закрутила. А сейчас вернулся уже осознанно и с большим энтузиазмом: изучаю всё углублённо и системно.
 
-Программирование для меня — совершенно новый мир, и я в полном восторге от его глубины и красоты.
+Меня реально цепляет мощь и свобода Linux: полный контроль над системой, никаких лишних ограничений. Хочу войти в тот небольшой процент людей, которые по-настоящему умеют работать с такими системами, и не быть привязанным к Windows 11 и её «удобствам» от Microsoft.
 
 <br>
 
-## 🛠️ Текущий стек (начинающий уровень)
+## 🛠️ Что изучаю сейчас
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=vim&logoColor=white" alt="Vim"/>
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
 </div>
 
 <br>
+
+
 
 ## 📬 Связаться со мной
 
 <div align="center">
   <a href="https://t.me/weemine">
-    <img src="https://img.shields.io/badge/Telegram-%230088cc.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
 
 <br>
 
 <div align="center">
-  <i>"The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie</i>
+  <i>Каждый день делаю хотя бы один шаг вперёд. Скоро здесь будут реальные проекты.</i>
 </div>
-
-<br>
-
----
-**Работаю над собой каждый день. Скоро здесь появятся первые нормальные проекты!** 🚀
