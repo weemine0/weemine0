@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=Привет!+Я+weemin0;Future+DevOps+Engineer;Saint+Petersburg,+RU;Linux+User+%7C+Open+Source" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=I+use+Arch+btw;Future+DevOps+Engineer;Saint+Petersburg,+RU;Linux+User+%7C+Open+Source" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -8,22 +8,12 @@
 
 <br>
 
-<div align="center">
-  <code>user@weemin0:~$ whoami</code>
-  <br>
-  18 y.o. | St. Petersburg | Building cloud infrastructure ☁️
-  <br>
-  <i>"Свобода — это Linux, а не Windows."</i>
-</div>
-
-<br>
-
 ## 🛠️ Технический Арсенал
 
 <div align="center">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux"/>
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash"/>
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   <br>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white" alt="Terraform"/>
