@@ -14,7 +14,7 @@
 
 | Направление | Инструменты и ОС |
 | :--- | :--- |
-| **OS** | ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white) ![Debian](https://img.shields.io/badge/-Debian-black?style=flat-square&logo=debian&logoColor=A81D33) |
+| **OS** | ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux&logoColor=white) ![EndeavourOS](https://img.shields.io/badge/-EndeavourOS-black?style=flat-square&logo=endeavouros&logoColor=7F3FBF) |
 | **Shell & Core** | ![Bash](https://img.shields.io/badge/-Bash-black?style=flat-square&logo=gnu-bash&logoColor=4EAA25) ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git&logoColor=F05032) |
 | **В планах** | ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker&logoColor=2496ED) |
 
